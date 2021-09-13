@@ -11,6 +11,7 @@ Een computer bouwen dat met een sensor ziet wanneer iemand beweegt. Wanneer de s
 ## Progressie
 
 13/09/2021:
+
 Danny heeft gewerkt aan de trello stylen, en hij heeft gekozen welke computer we zullen gebruiken (Arduino).
 
 Max is bezig met een stappenplan.
@@ -20,5 +21,7 @@ Raphael heeft github en trello opgezet en de README.md gemaakt.
 ### Studenten
 
 Max Bouricius
+
 Danny van der Zwart
+
 Raphael Rebel
